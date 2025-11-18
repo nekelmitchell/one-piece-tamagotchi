@@ -6,7 +6,7 @@ Features: Choose from multiple One Piece characters. Personality-based soundtrac
 
 Tech Stack: HTML, CSS, JavaScript
 
-Try it:
+Try it: https://nekelmitchell.github.io/one-piece-tamagotchi/ 
 
 ![Screenshot](https://github.com/user-attachments/assets/e0fc6b5b-206b-4571-88b0-667b38f3c6eb)
 
