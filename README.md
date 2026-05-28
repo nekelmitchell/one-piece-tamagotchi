@@ -4,11 +4,11 @@ An interactive web experience where users select a One Piece character and recei
 
 ## Navigation
 
-* Press the **midde circle button** on the Tamagotchi to pick a character.
-* Select a One Piece character by pressing the **midde circle button**.
-* To look through the characters press either the **left circle button** or **right circle button**.
-* To flip from songs back and forth, press either the **left circle button** or **right circle button**.
-* To go back to the beginning, press the **midde circle button**.
+* Press the **midde power button** to pick a character.
+* Select a One Piece character by pressing the **midde power button**.
+* To look through the characters press either the **left arrow button** or **right arrow button**.
+* To flip from songs back and forth, press either the **left arrow button** or **right arrow button**.
+* To go back to the beginning, press the **midde power button**.
 
 ## Features
 
